@@ -1,6 +1,10 @@
-# Localization String Replacement
+# Hardcoded String Replacer
 
 This Visual Studio Code extension helps you replace hardcoded strings with localized string keys and automatically updates a JSON file with the key-value pairs.
+
+## Demo
+
+![Extension Demo](images/demo.gif)
 
 ## Features
 
@@ -8,14 +12,6 @@ This Visual Studio Code extension helps you replace hardcoded strings with local
 - Automatically add the original text and key to a JSON file
 - Configurable replacement format
 - Command to set custom replacement format
-
-## Installation
-
-1. Download the `.vsix` file from the releases page.
-2. Open Visual Studio Code.
-3. Go to the Extensions view (Ctrl+Shift+X or Cmd+Shift+X).
-4. Click on the "..." menu in the top-right corner of the Extensions view.
-5. Choose "Install from VSIX..." and select the downloaded `.vsix` file.
 
 ## Usage
 
