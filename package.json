@@ -4,6 +4,7 @@
   "description": "Replace selected hardcoded text with a string key, and add the key-value pair into a translation file.",
   "version": "0.0.1",
   "publisher": "johnnyfekete",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/johnnyfekete/hardcoded-string-replacer.git"
