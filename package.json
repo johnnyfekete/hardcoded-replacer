@@ -3,6 +3,7 @@
   "displayName": "Hardcoded String Replacer",
   "description": "Replace selected hardcoded text with a string key, and add the key-value pair into a translation file.",
   "version": "0.0.1",
+  "publisher": "johnnyfekete",
   "engines": {
     "vscode": "^1.91.0"
   },
